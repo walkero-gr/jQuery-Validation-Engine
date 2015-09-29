@@ -421,6 +421,9 @@ Show the arrow in the validation popup. Defaults to *true*
 ### showArrowOnRadioAndCheckbox
 Show the arrow in the validation popup when validating checkboxes and radio buttons. Defaults to *false*
 
+### maxErrorsPerField
+Show max number of errors per field. Defaults to *false*
+
 Validators
 ---
 
